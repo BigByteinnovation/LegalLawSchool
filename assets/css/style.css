@@ -741,7 +741,7 @@ header .main-menu .navbar-collapse{
     max-height: 250px;
 }
 header .main-menu .navbar-brand{
-    padding: 26px 15px;
+    padding: 15px 15px;
 }
 header .main-menu .menu-search{
     display: inline-block;
@@ -909,7 +909,6 @@ header .menu_cart .check_out:hover{
     background-color: #df102c;
     color: #fff;
 }
-.header-two{}
 .header-two .header-top{
     background-color: #df102c;
 }
@@ -1098,7 +1097,7 @@ header .menu_cart .check_out:hover{
 .header-six .header-top, .header-seven .header-top, .header-eight .header-top{
     background-color: #df102c;
 }
-.header-nine{}
+
 .header-nine .main-menu{
     background-color: rgba(0,0,0,.2);
 }
@@ -5076,8 +5075,8 @@ footer p{
     color: #e8e8e8;
 }
 footer .footer-top{
-    padding-top: 100px;
-    padding-bottom: 60px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     background-color: #3f5468;
 }
 footer .footer-item .title{
