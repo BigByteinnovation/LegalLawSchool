@@ -1835,7 +1835,7 @@ header .menu_cart .check_out:hover{
     transition: .25s ease-out;
     background-color: #3f5468;
     border-radius: 15px;
-    height: 45rem;
+    /* height: 45rem; */
 }
 .categories-two .category-item-in:hover{
     -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,.1);
